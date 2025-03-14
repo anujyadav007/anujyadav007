@@ -10,28 +10,29 @@
   <code><a href="https://www.linkedin.com/in/anuj-kumar-yadav-592a24263/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/anuj__07/" title="Leetcode Profile"><img width="22" src="images/LeetCode.png"> Leetcode</a></code>
   <code><a href="https://www.codechef.com/users/anuj_yadav_12" title="Codechef"><img width="22" src="images/Codechef.png"> Codechef</a></code>
-  <code><a href="https://github.com/anujyadav007" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="https://www.instagram.com/yadav_anuj007/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Anuj Kumar Yadav, an Aspiring Software Engineer
+  <b>🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</b>
   <br>
+  🎓 Pursuing B.Tech in Computer Science & Engineering at IIIT Nagpur.
   <br>
-  🎓 I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
+  💻 Passionate about designing scalable web applications, backend systems, and engaging UI/UX.
   <br>
-  💻 I have a passion for full-stack development, competitive programming, and solving real-world problems through technology.
+  ⚡ Love tackling complex algorithms, competitive coding, and open-source contributions.
   <br>
-  🚀 I have experience in developing web applications, MERN stack projects, and backend APIs using Django and Node.js.
+  🛠️ Skilled in MERN, Django, REST APIs, and cloud-based architectures.
   <br>
-  🔍 I love exploring new technologies and frameworks, working on open-source projects, and contributing to the developer community.
+  📚 Built industry-grade projects like <b>Urban Cart</b> (E-commerce), <b>Social Hive</b> (Social Media), and <b>OpportuniTree</b> (Job Search Platform).
   <br>
-  📚 My key projects include Urban Cart (E-commerce website), Social Hive (a social media platform), and OpportuniTree (a job search platform).
+  💬 Let's connect and collaborate! Drop your queries <a href="https://github.com/anujyadav007/anujyadav007/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto:5845anuj@gmail.com">5845anuj@gmail.com</a>
+  📫 Reach me at: <a href="mailto:5845anuj@gmail.com">5845anuj@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Tech Stack & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -49,7 +50,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -70,7 +71,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/anujyadav007/SocialHive" title="SocialHive"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=anujyadav007&repo=SocialHive&theme=react&border_color=61dafb&border_radius=10"></a>
