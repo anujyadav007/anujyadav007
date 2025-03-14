@@ -39,10 +39,10 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Django" height="25" src="images/django.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img title="Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
