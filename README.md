@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnujKumarYadav.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors">
 
-<h1 align="center"><h1 align="center">This is Anuj Kumar Yadav</h1>
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;This+is+Anuj....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
